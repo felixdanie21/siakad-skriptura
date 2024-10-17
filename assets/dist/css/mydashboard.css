@@ -1,0 +1,38 @@
+.main-sidebar {
+    background-color: rgb(49, 4, 163) !important
+}
+
+.main-header, .main-footer {
+    background-color: yellow !important;
+    color: white;
+    border: 0px;
+}
+
+.content-wrapper{
+    background-image: url('../../img/pattern2.png');
+}
+
+.nav-link.active{
+    background-color: #7e68e1 !important;
+    color: white !important;
+}
+
+.nav-link.active:hover{
+    background-color: #a293e2 !important;
+    color: white !important;
+}
+
+.bg-modul{
+    background-color: #7e68e1 !important;
+    color: white !important;
+}
+
+.bg-modul:hover{
+    background-color: rgb(49, 4, 163) !important;
+    color: white !important;
+}
+
+.fixed-sticky {
+    overflow: auto;
+    height: 70vh;
+}
